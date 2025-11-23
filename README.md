@@ -1,6 +1,6 @@
 COMPANY: CODTECH IT SOLUTIONS
 
-NAME: Bondhili Gayatri 
+NAME: Bondhili Gayathri 
 
 INTERN ID: CT12QTY
 
